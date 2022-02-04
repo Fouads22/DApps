@@ -1,4 +1,4 @@
-L'object du Project02 est de créer une application distribuée en utilisant le middleware RMI.
+L'objectif du Project02 est de créer une application distribuée en utilisant le middleware RMI.
 
 J'ai utilisé notepad et JDK version 1.8
 
