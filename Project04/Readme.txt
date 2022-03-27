@@ -1,0 +1,1 @@
+Create an enterprise application, containing a Stateless Session bean, which has a business method that displays "Hello World" and call it from a Servlet, using as an IDE IntelliJ and as an application Server Glassfish 4.1.2.
